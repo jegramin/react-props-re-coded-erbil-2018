@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-class MovieCard extends React.Component {
+export default class MovieCard extends React.Component {
   render() {
     return (
       <div className="movie-card">
